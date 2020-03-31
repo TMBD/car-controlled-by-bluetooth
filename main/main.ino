@@ -63,7 +63,7 @@ void setup() {
   pinMode(MOTOR_LEFT_BACK_GOBACK_PIN, OUTPUT);
 
   //////////////////////////////////////////////
-  //Serial.begin(9600); // Debugging only
+  Serial.begin(9600);
 }
 /////////END SETUP//////////////////
 
